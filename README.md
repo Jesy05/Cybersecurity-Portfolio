@@ -5,6 +5,10 @@ My portfolio showcasing cybersecurity skills, projects, and professional stateme
 ## About Me
 My name is Jesy González. I am a motivated and detail-oriented student pursuing degrees in Industrial Engineering and Systems of Information Engineering, with a passion for cybersecurity. My journey into this field began when I experienced firsthand how important it is to safeguard sensitive data. Since then, I’ve been committed to building the knowledge and skills necessary to address today’s cybersecurity challenges.  
 
+## Certifications
+- [Foundations of Cybersecurity (Google)](./Foundations_of_Cybersecurity_Certificate.pdf)
+
+
 ## Strengths
 - **Problem-Solving & Analytical Thinking**: I excel at breaking down complex issues and crafting effective solutions.  
 - **Programming Skills**: I am proficient in Python and Linux commands, with basic knowledge of other programming languages.  
