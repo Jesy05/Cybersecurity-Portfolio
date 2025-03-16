@@ -7,7 +7,7 @@ My name is Jesy González. I am a motivated and detail-oriented student pursuing
 
 ## Certifications
 - [Foundations of Cybersecurity (Google)](./Foundations_of_Cybersecurity_Certificate.pdf)
-- [Play it Safe Manage Security Risks (Google)](./Google-Certificate-Play it Safe-Manage Security-Risks.pdf)
+- [Play it Safe Manage Security Risks (Google)](./Google-Certificate-Play-it-Safe-Manage-Security-Risks.pdf)
 
 
 
