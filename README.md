@@ -14,7 +14,7 @@ My name is Jesy González. I am a motivated and detail-oriented student pursuing
 
 ## Strengths
 - **Problem-Solving & Analytical Thinking**: I excel at breaking down complex issues and crafting effective solutions.  
-- **Programming Skills**: I am proficient in Python and Linux commands, with basic knowledge of other programming languages.  
+- **Programming Skills**: I am proficient in Python and some Linux commands, with basic knowledge of other programming languages.  
 - **Leadership & Initiative**: I often take on leadership roles, balancing compliance with innovative, abstract thinking to achieve goals.  
 
 ## Values
